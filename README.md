@@ -3,7 +3,7 @@
   <br>
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=2000&color=00FF88&center=true&vCenter=true&width=600&height=60&lines=ramp1d1" alt="Animated Name">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=60&lines=ramp1d1" alt="Animated Name">
   </div>
   <br>
 
@@ -16,7 +16,7 @@
   <br>
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=2000&color=00FF88&center=true&vCenter=true&width=500&height=30&lines=Embedded+Security+Engineer" alt="Status">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&height=30&lines=Embedded+Security+Engineer" alt="Status">
   </div>
 
   <br>
