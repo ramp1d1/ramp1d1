@@ -16,7 +16,7 @@
   <br>
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&height=30&lines=Systems+Engineer+/+Embedded+Systems+Engineer)" alt="Status">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&height=30&lines=Systems+Engineer+/+Embedded+Systems+Engineer" alt="Status">
   </div>
 
   <br>
