@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ramp1d1/ramp1d1/main/assets/images/header.gif" width="100%" alt="Embedded Cybersecurity Engineer"/>
+  <img src="https://raw.githubusercontent.com/ramp1d1/ramp1d1/main/assets/images/header.gif" width="100%" alt="AQA / SDET / Embedded Systems Engineer (middle)"/>
   <br>
 
   <div align="center">
