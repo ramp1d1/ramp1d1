@@ -1,23 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ramp1d1/ramp1d1/main/assets/images/header.gif" width="100%" alt="AQA / SDET / Embedded Systems Engineer (middle)"/>
-  <br>
+  <!-- 1. Чистый баннер -->
+  <img src="https://raw.githubusercontent.com/ramp1d1/ramp1d1/main/assets/images/header.gif" width="100%" alt="AQA / SDET / Embedded Systems Engineer" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 255, 136, 0.05);" />
 
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=60&lines=ramp1d1" alt="Animated Name">
-  </div>
-  <br>
+  <!-- 2. Никнейм (Увеличен размер шрифта для баланса) -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=650&height=70&lines=ramp1d1" alt="Nickname" />
+  </h1>
 
-  <div align="center">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="70" height="70">
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80" height="80">
-    <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="80" height="80">
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="70" height="70">
-  </div>
-  <br>
-
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&height=30&lines=AQA+/+SDET+/+Embedded+Software+Engineer" alt="Status">
-  </div>
-
-  <br>
+  <!-- 3. Должность -->
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=500&color=A0A0A0&center=true&vCenter=true&width=650&height=40&lines=AQA+%7C+SDET+%7C+Embedded+Software+Engineer" alt="Role" />
+  </h3>
 </div>
